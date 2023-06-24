@@ -1,0 +1,7 @@
+{
+  "name": "IonicPokemonSearch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
